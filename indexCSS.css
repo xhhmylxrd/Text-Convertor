@@ -1,0 +1,11 @@
+.button-container{
+    display: flex;
+}
+.button{
+    background-color: coral;
+    font-style: italic;
+}
+textarea{
+    height: 400px;
+    width: 700px;
+}
